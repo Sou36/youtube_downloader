@@ -26,3 +26,8 @@ winget install --id=Gyan.FFmpeg -e
 ```
 
 すれば簡単に入れれます。過去に入れたことがあればしなくていいです。
+
+
+
+Release by:
+https://github.com/Sou36/youtube_downloader
