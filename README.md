@@ -10,6 +10,7 @@ youtube.py → Youtube上の動画を保存したい際に使用します。
 
 
 ～実行環境～
+
 pythonのyt-dlpというライブラリと、ffmpegを使用しているのでそれぞれ準備してから実行してください。
 
 yt-dlpはCMDで
