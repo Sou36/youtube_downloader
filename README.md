@@ -21,7 +21,7 @@ pip install yt-dlp
 ```
 
 ffmpegはCMDで
-```yaml
+```
 winget install --id=Gyan.FFmpeg -e
 ```
 
