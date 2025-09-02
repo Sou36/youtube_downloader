@@ -16,12 +16,12 @@ youtube.py → Youtube上の動画を保存したい際に使用します。
 pythonのyt-dlpというライブラリと、ffmpegを使用しているのでそれぞれ準備してから実行してください。
 
 yt-dlpはCMDで
-```cmd
+```
 pip install yt-dlp
 ```
 
 ffmpegはCMDで
-```cmd
+```yaml
 winget install --id=Gyan.FFmpeg -e
 ```
 
